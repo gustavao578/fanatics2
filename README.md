@@ -1,1 +1,3 @@
-# fanatics2
+# FootFanatics
+
+Documentacao do produto: [prd/README.md](prd/README.md).
